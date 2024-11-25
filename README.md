@@ -9,4 +9,4 @@
 
 <br>
 
-![screencapture-github-danielvilaca-IA24-P07-blob-main-ProjAlter-IA24-P07-ipynb-2024-11-25-20_10_30](https://github.com/user-attachments/assets/82e14d4a-1804-40e1-a403-f7361fa83fbf)
+![screencapture-github-danielvilaca-IA24-P07-blob-main-ProjAlter-IA24-P07-ipynb-2024-11-25-22_16_35](https://github.com/user-attachments/assets/9df00fb6-6169-41f5-8f30-4dab9e993777)
