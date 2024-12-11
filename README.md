@@ -9,4 +9,25 @@
 
 <br>
 
-![screencapture-github-danielvilaca-IA24-P07-blob-main-ProjAlter-IA24-P07-ipynb-2024-11-25-22_16_35](https://github.com/user-attachments/assets/9df00fb6-6169-41f5-8f30-4dab9e993777)
+<p align="center">
+
+  <img src = "https://github.com/user-attachments/assets/b18af32c-d887-48fe-a7e2-2113fb3936ed">
+  
+</p>
+
+---
+
+<h3 align="center">Output Gantt Chart</h3>
+
+---
+
+
+<p align="center">
+
+  <img src = "https://github.com/user-attachments/assets/b8f5c079-96f3-49a2-a447-04fc1101c5ab">
+  
+</p>
+
+
+
+
